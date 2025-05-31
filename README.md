@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**RennyReal1/RennyReal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Ayo — a Biomedical Engineering student minoring in Computer Science at the University of Illinois Chicago (UIC)
 
-Here are some ideas to get you started:
+🎓 I hold an A.S. degree in Computer Science from Harold Washington College, CCC and am passionate about bridging health and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Focused on health tech, engineering, and developing wellness-driven solutions.
+
+🚀 Founder of Real Haven, a wellness brand empowering better living through tech and healthy habits
+
+🌱 Always exploring new ways to merge engineering, research, and real-world impact.
+
+### Connect with me at:
+
+<a href= "ayomide.rilwan4@gmail.com"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+<a href= "https://www.linkedin.com/in/ayomide-rilwan/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
+
