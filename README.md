@@ -7,6 +7,7 @@
 🔬 Focused on health tech, engineering, and developing wellness-driven solutions.
 
 🚀 Founder of Real Haven, a wellness brand empowering better living through tech and healthy habits
+🚀 Founder of The Balanced Engineer - a nonprofit initiative focused on providing access AI education, professional development, and global opportunities
 
 🌱 Always exploring new ways to merge engineering, research, and real-world impact.
 
